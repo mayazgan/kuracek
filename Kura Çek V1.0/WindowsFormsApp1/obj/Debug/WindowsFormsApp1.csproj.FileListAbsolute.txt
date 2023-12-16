@@ -1,0 +1,13 @@
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.tr-TR.resources
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kura Çek V1.0.exe.config
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kura Çek V1.0.exe
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kura Çek V1.0.pdb
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\tr-TR\Kura Çek V1.0.resources.dll
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\tr-TR\Kura Çek V1.0.resources.dll
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kura Çek V1.0.exe
+C:\Users\yazga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kura Çek V1.0.pdb
