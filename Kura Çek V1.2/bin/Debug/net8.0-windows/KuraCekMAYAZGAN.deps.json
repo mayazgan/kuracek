@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KuraCekMAYAZGAN/1.0.0": {
+        "runtime": {
+          "KuraCekMAYAZGAN.dll": {}
+        },
+        "resources": {
+          "tr-TR/KuraCekMAYAZGAN.resources.dll": {
+            "locale": "tr-TR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KuraCekMAYAZGAN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
